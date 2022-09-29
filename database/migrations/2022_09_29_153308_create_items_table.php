@@ -17,7 +17,7 @@ return new class extends Migration
             $table->id();
             $table->string('item_name');
             $table->boolean('completed_status')->default(0);
-            $table->datetime('completed_at');
+            $table->datetime('completed_at')->nullable();
             $table->timestamps();
         });
     }
