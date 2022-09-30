@@ -13,6 +13,9 @@
         "vite": "^3.1.4"
     },
     "dependencies": {
+        "primeflex": "^3.2.1",
+        "primeicons": "^6.0.1",
+        "primevue": "^3.17.0",
         "vue": "^3.2.36",
         "vue-loader": "^17.0.0"
     }
