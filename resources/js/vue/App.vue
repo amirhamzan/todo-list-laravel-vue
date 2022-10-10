@@ -1,6 +1,6 @@
 <template>
-  <div class="grid mt-8">
-    <div class="col-6 col-offset-3">
+  <div class="">
+    <div class="">
       <Card class="test">
         <template #title> Add Todo List <i class="pi pi-plus"></i></template>
         <template #content>
